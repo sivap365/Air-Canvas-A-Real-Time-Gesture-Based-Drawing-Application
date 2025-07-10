@@ -1,6 +1,5 @@
-===========================
      AIR CANVAS PROJECT
-===========================
+
 
 📌 Project Title:
 Air Canvas - A Touch-Free Drawing Application
