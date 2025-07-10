@@ -1,5 +1,3 @@
-#Air-Canvas-A-Real-Time-Gesture-Based-Drawing-Application
-
 
 📌 Project Title:
 Air Canvas - A Touch-Free Drawing Application
