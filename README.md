@@ -1,28 +1,26 @@
+# Air Canvas 🎨🖐️
 
-📌 Project Title:
-Air Canvas - A Touch-Free Drawing Application
+A computer vision-based project that lets users draw in the air using hand gestures captured through a webcam.
 
-🧠 Description:
-Air Canvas is a computer vision-based application that enables users to draw on a virtual canvas using only hand gestures. It uses the webcam feed to detect hand movements in real time, allowing users to draw, erase, and change colors without touching any input device. The system is built using Python, OpenCV, and MediaPipe.
+## 🚀 Features
+- Real-time hand detection using OpenCV
+- Draw freely in the air like a digital sketchpad
+- Color selection and eraser mode
 
-🎯 Objective:
-To provide a natural and touch-free drawing experience using real-time hand gesture recognition.
-
-🔧 Technologies Used:
+## 🛠 Tech Stack
 - Python
-- OpenCV (for image processing)
-- MediaPipe
-- NumPy
+- OpenCV
+- MediaPipe (optional)
+- Numpy
 
-📂 File Included:
-- mv code-1.exe → Executable file of the Air Canvas application.
+## 📷 Demo
 
-▶️ How to Use:
-1. Double-click on `mv code-1.exe` to launch the application.
-2. Ensure your webcam is connected and functioning.
-3. Hold any blue colour object in your hand in front of your webcam to draw.
+![air_canvas_20250327-121754](https://github.com/user-attachments/assets/4c26617a-482a-4c2a-8f12-42a24bc4d31c)
+![air_canvas_20250327-121754](https://github.com/user-attachments/assets/c8e6934b-0bdc-468d-ad09-4b42172a4fba)
 
-📌 Note:
-- Allow camera access if prompted.
-- Make sure your system has a webcam.
-- No additional installation is required.
+
+
+## 🔧 How to Run
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
